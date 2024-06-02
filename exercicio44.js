@@ -12,4 +12,4 @@ let pessoa = {
 for(let atri in pessoa){
     console.log(typeof(atri));
 }
-console.log(typeof(pessoa.idade))
+console.log(typeof(pessoa.idade));
